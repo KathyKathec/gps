@@ -1,5 +1,6 @@
-1,programador,Junior,7,56,19-06-2025,08-07-2025,,60,3360.0
-2,desenvolvdora front end,Julia,3,24,19-06-2025,08-07-2025  ,,55,1320.0
-3,testadora,Kaherin,3,24,19-06-2025,08-07-2025  ,,45,1080.0
-4,analista,Pedro,2,16,19-06-2025,08-07-2025,,50,800.0
-5,especialista em banco de dados,Joao,"1,5",12,19-06-2025,08-07-2025,,50,600.0
+ID,Tarefa,Respons�vel,Dura��o (dias),Esfor�o (horas),In�cio,Fim,Recurso,Custo por Hora,Custo Total
+1,backend,Pedro,7,56,2025-10-01,2025-10-21,Computador,60,3360.0
+2,front-end,Laura,3,24,2025-10-01,2025-10-21,Computador,55,1320.0
+3,Tester,Katherin,3,24,2025-10-01,2025-10-21,Computador,45,1080.0
+4,Analista,Pedro,2,16,2025-10-01,2025-10-21,Computador,50,800.0
+5,Espcialista DB,Joao,"1,5",12,2025-10-01,2025-10-21,Computador,60,720.0
